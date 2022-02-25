@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: d98b5e860da9d324b846cd5889b0f7e5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gasket.1
+    second: {fileID: 2100000, guid: 91901f05c87d6c149898af359d1f1267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gasket.1.1
+    second: {fileID: 2100000, guid: f83d03ae1665336438b3bc7c0f6b2dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Body_geo
+    second: {fileID: 2100000, guid: 99a55a0d3f38ead4e8acc81ac47b3aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Cap
+    second: {fileID: 2100000, guid: ee9db11dbddf27d4582002ed48232aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Eye_X_L
+    second: {fileID: 2100000, guid: fd1cf45d7cf497242af07f1eaabf92fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Eye_X_R
+    second: {fileID: 2100000, guid: 27305705066eddf49b4074ea53679c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Nose
+    second: {fileID: 2100000, guid: 70a2fae51de9ee7469846179a54b3b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Sock_L
+    second: {fileID: 2100000, guid: 9ad2dd1d27f57cd4d9f1f30494d3e622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Tshirt_geo.1
+    second: {fileID: 2100000, guid: 18d49c4d9959f1d418f8e7e99bf6fcf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_Watch_geo
+    second: {fileID: 2100000, guid: aa144fca01e3a3c41bdab45ca07dba29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_headset
+    second: {fileID: 2100000, guid: 2ce1e457567e50c4f88a97acfccafe0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAN_pant_geo
+    second: {fileID: 2100000, guid: 43a333a8e6bf71d4a9e9786eba967115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels
+    second: {fileID: 2100000, guid: e03276b4cfd2a9e46be649ffa2b76e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels.1
+    second: {fileID: 2100000, guid: b14b023dac40efa49969424f3a197036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Body_geo
+    second: {fileID: 2100000, guid: 63c67605459fc984eaa8ca7da990a6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Eye_X_L.1
+    second: {fileID: 2100000, guid: bcbf2f9425088b94a86fff44d6bc3b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Eye_X_R
+    second: {fileID: 2100000, guid: 2175852d96d24d54baf11a792c9e97aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Hair
+    second: {fileID: 2100000, guid: e2c2a48411ee82c49b1ac2637fdc7315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Nose
+    second: {fileID: 2100000, guid: d53d486cb26b6ef42bfb110a06a9b87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Woman_Shoes_R
+    second: {fileID: 2100000, guid: 16f34585e5747934f8f3d17163f7b36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: board.1
+    second: {fileID: 2100000, guid: 581ee542a8829fe469c450158a3f8a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: board.1.1
+    second: {fileID: 2100000, guid: eae2d54d5de860b48afbd95ce0e0139a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coating.1
+    second: {fileID: 2100000, guid: 6213296eb374ff74fa7280416bcd1955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coating.1.1
+    second: {fileID: 2100000, guid: 3b8ee665f559c7446909e30a7f7bad85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_Jagged_12
+    second: {fileID: 2100000, guid: ee16bd81c570b284e92ec19d0cdd400a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_Jagged_12.1
+    second: {fileID: 2100000, guid: ef29333f29a3ac54293464b8b67f2a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suspension
+    second: {fileID: 2100000, guid: 346bd756dd188714fa588549d8c7d5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suspension.1
+    second: {fileID: 2100000, guid: 0f334251309e13d49a097b0d69f303b8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.8
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

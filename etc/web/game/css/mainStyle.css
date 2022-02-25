@@ -1,0 +1,53 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.log-out-btn-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    display: none;
+   } 
+.log-out-btn {
+    cursor: pointer;
+    background-color: #d4504f;
+    color:#ffffff;
+    padding:10px 20px;
+        border: none;
+}
+.log-out-btn:active {
+    background-color: red
+}
+
+
+
+    #unity-loading-bar {
+      position: relative;
+      bottom: 20px;
+    }
+
+    #unity-logo img {
+      max-width: 80%;
+      width: 200px;
+      height: 200px;
+    }
+.note {
+    text-align: center;
+}
+    .note span {
+      color: white;
+      font-size: 20px;
+      letter-spacing: 0.3px;
+    }
+
+.block {
+    display:none;
+}
+/* Responsive */
+@media(max-width:576px) {
+    .note span .block{
+      display:block;
+    }
