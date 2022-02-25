@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/WebLibTest/WebLibTest.unity
+    guid: 39e7d807786cb8a449155d5f3d84f999
+  - enabled: 1
+    path: Assets/Scenes/Virtual Event/Virtual Event.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Virtual Event/Dan.unity
+    guid: e57cbc2691bd0184aa4536206a86de3e
+  - enabled: 0
+    path: Assets/Scenes/Virtual Event/Showcase Rooms.unity
+    guid: 9918ee566136caa4ea65950dc88e35e7
+  - enabled: 0
+    path: Assets/Scenes/Virtual Event/Showcase Events.unity
+    guid: 429d4d5fb8f64d14db4cb02e9e75de09
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
