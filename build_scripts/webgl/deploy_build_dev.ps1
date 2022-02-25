@@ -1,1 +1,0 @@
-& $PSScriptRoot\upload_build.ps1 deployman "twnz.dev" "twnz.dev" "/var/www/twnz.dev/game/Build"

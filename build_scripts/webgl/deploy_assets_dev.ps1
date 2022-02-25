@@ -1,1 +1,0 @@
-& $PSScriptRoot\upload_assets.ps1 deployman "twnz.dev" "twnz.dev" "/var/www/twnz.dev/game/StreamingAssets/"

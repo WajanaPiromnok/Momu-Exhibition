@@ -1,1 +1,0 @@
-scp "..\..\Build\osx-client.app.zip" "deployman@motionjam2021.momu.co:/var/www/momu.co/download/"
